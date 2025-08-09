@@ -1,0 +1,21 @@
+body {
+    background-color: #f4e1c1; /* بيج فاتح */
+    color: #000; /* نص أسود */
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #c8102e; /* أحمر العلم */
+}
+
+img {
+    width: 300px;
+    border: 5px solid black;
+}
+
+p {
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.8;
+}
